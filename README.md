@@ -3,7 +3,7 @@
 ## Installation
 
 For initial instructions, check out the original script at
-[https://github.com/scrooloose/nerdcommenter](https://github.com/scrooloose/nerdcommenter)
+[https://github.com/preservim/nerdcommenter](https://github.com/preservim/nerdcommenter)
 
 ## Configuration
 
